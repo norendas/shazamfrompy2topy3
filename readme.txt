@@ -15,7 +15,6 @@ cycler==0.10.0
 kiwisolver==1.2.0
 matplotlib==3.3.2
 numpy==1.19.2
-Pillow==8.0.0
 PyAudio==0.2.11
 pydub==0.24.1
 pyparsing==2.4.7
