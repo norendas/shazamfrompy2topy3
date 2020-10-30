@@ -15,3 +15,5 @@ config-development.json
 
 db/*.db
 db/*.db-journal
+
+venv/
